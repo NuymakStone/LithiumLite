@@ -1,0 +1,4 @@
+"D:\SoftWare\Clion\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "D:\下载\谷歌下载\lithium.rip-2.0 (2)\lithium.rip-2.0\Lithium Lite 2.0 (no auth)\Lithium Lite 2.0"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/涓嬭浇/璋锋瓕涓嬭浇/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug

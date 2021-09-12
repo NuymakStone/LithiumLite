@@ -1,0 +1,3 @@
+D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/CMakeFiles/LithiumLite.dir
+D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

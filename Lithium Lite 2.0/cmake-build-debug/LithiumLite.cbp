@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LithiumLite"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LithiumLite">
+				<Option output="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/LithiumLite.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/."/>
+					<Add directory="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui"/>
+					<Add directory="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/fonts"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 LithiumLite"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LithiumLite/fast">
+				<Option output="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/LithiumLite.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/."/>
+					<Add directory="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui"/>
+					<Add directory="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/fonts"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 LithiumLite/fast"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW/bin/mingw32-make.exe -f &quot;D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/fonts/fa.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/fonts/roboto.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imconfig.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_demo.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_draw.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_impl_dx11.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_impl_dx11.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_impl_win32.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_impl_win32.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_internal.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_tables.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imgui_widgets.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imstb_rectpack.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imstb_textedit.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/imgui/imstb_truetype.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/main.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/main.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/misc/binds.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/misc/status.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/combat/clicker.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/combat/reach.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/combat/throwpot.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/combat/velocity.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/destruct/destruct.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/movement/antiafk.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/movement/bhop.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/movement/fly.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/movement/speed.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/movement/timer.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/visuals/cavefinder.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/visuals/esp.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/modules/visuals/nametags.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/ntdll.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/scanner/scanner.cpp">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/xorstr.h">
+			<Option target="LithiumLite"/>
+		</Unit>
+		<Unit filename="D:/下载/谷歌下载/lithium.rip-2.0 (2)/lithium.rip-2.0/Lithium Lite 2.0 (no auth)/Lithium Lite 2.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
